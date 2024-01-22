@@ -1,4 +1,7 @@
-<html><head>
+<Module>
+<ModulePrefs title="Soccer Random"/>
+<Content type="html">
+<![CDATA[ <!DOCTYPE html> <html><head>
     <meta charset="utf-8">
     <title>Stickman Hook</title>
     <link rel="icon" href="/favicon.ico">
@@ -739,3 +742,6 @@ input[type="button"]::-moz-focus-inner {
   
 
 <canvas width="1311" height="939" style="touch-action: none; cursor: inherit;"></canvas><div class="ui"><div class="title-buttons"><div class="row"><button class="play-button button">PLAY<br>3 / 5</button><button class="shop-button button  unlocked  type-undefined "><img class="image" src="images/e05408b9bd045ed3e43a969146823019-CHAR_AngelStick_Miniature.png"><span class="text">15/23</span></button></div><div class="row"></div></div></div><div style="position: absolute; bottom: 0px; left: 0px; right: 0px;"></div></body></html>
+
+    </Content>
+</Module>
